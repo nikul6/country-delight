@@ -1,0 +1,11 @@
+[
+    { "id": 1, "name": "Milk & Coconut Water", "image": "https://drive.google.com/thumbnail?id=1KMnZkyTJv6nXlxrw3xxy3_FBp_Ez8_An" },
+    { "id": 2, "name": "Pulses", "image": "https://drive.google.com/thumbnail?id=1pFt6Y42O9l2vj6QB_VGkDnVPbwD5ysCN" },
+    { "id": 3, "name": "Milk Products", "image": "https://drive.google.com/thumbnail?id=1BARI66uSpHNTL7acmHvyvYGWKt3JrZt1" },
+    { "id": 4, "name": "Eggs", "image": "https://drive.google.com/thumbnail?id=1pMGji-mYTr_8-NCGe5mlgSjh29l8TtIk" },
+    { "id": 5, "name": "Atta & Rice", "image": "https://drive.google.com/thumbnail?id=1Rn3yxkkZgnlWATiSofq5XfFQ8daNWZuG" },
+    { "id": 6, "name": "Oils", "image": "https://drive.google.com/thumbnail?id=1y2ibvhQ1eNG9JH3QY0kIs8vU6Ta3CzNY" },
+    { "id": 7, "name": "Natural Spices", "image": "https://drive.google.com/thumbnail?id=1UBlow32sD0WqUeHpCbrETwm0cro5hHX7" },
+    { "id": 8, "name": "Cereals & Millets", "image": "https://drive.google.com/thumbnail?id=1zCNwymFFrS25r9Eqj5AKbRnS0Sa0SFWq" },
+    { "id": 9, "name": "Salt & Sugar", "image": "https://drive.google.com/thumbnail?id=1L9lyoMOPZBEwV516ENusdJ97DEP_M0q4" }
+  ]

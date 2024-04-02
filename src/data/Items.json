@@ -1,0 +1,11 @@
+[
+    { 
+        "id": 1, 
+        "name": "Milk & Coconut Water", 
+        "image": "https://drive.google.com/thumbnail?id=1KMnZkyTJv6nXlxrw3xxy3_FBp_Ez8_An",
+        "price": 50,
+        "unit": "500 ml",
+        "discount": 50,
+        "remarks": "Hormone Free"
+    }
+  ]
